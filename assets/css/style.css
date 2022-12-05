@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.backDrop{
+    width: 100%;
+    height: 100vh;
+    background: rgb(0,0,0,0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.myModal {
+    background-color: white;
+    width: 60%;
+    position: sticky;
+    left: 20%;
+    padding: 40px;
+    border-radius: 5px;
+    z-index : 5;
+}
+
+@keyframes animi{}
+i{
+    float: right;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
